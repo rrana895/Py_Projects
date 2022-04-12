@@ -9,3 +9,4 @@
 Be careful 🤨 some do not like the scraping though.
 
 >> There is also package called Beautiful Soup. 
+>> Here have used urllib module which is pre installed so need for installation. In the code have collected data from the  [webpage](https://en.wikipedia.org/wiki/Forbes%27_list_of_the_world%27s_highest-paid_athletes). To view the data that's scraped used head(), and finally saved the scraped data in a CSV file. 
